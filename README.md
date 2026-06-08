@@ -93,3 +93,5 @@ Developed by **Shivali Gupta**
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
+
+> Note: `similarity.pkl` is excluded due to GitHub file size limitations.
